@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/soa-config-server/soa-config-server.iml" filepath="$PROJECT_DIR$/soa-config-server/soa-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-eureka-server/soa-eureka-server.iml" filepath="$PROJECT_DIR$/soa-eureka-server/soa-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/soa-spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/soa-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-test-cloud-app/soa-test-cloud-app.iml" filepath="$PROJECT_DIR$/soa-test-cloud-app/soa-test-cloud-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa-zuul-server/soa-zuul-server.iml" filepath="$PROJECT_DIR$/soa-zuul-server/soa-zuul-server.iml" />
+    </modules>
+  </component>
+</project>
